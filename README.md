@@ -33,6 +33,12 @@ once again, git clone this repo "git clone https://github.com/colebolebole/pycha
 open up pychat on any text based editor 
 again go to line 5 and change the port to whatever you set your server as, again (default 5555 as pictured, 9800 if proxied for port forwarding) 
 
+# Keep this in mind when port fowarding
+
+make sure you have the proxy & actual pychat server fowarded (exp)
+![opera_nOBLivgmN4](https://user-images.githubusercontent.com/88512222/231716907-4b5696c2-707c-49e2-a0c6-a4d049d8bbce.png)
+
+
 ---
 
 # Images
