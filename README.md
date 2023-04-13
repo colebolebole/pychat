@@ -1,4 +1,4 @@
-pychat
+pychat (Python Chat)
 ---
 
 how to install
