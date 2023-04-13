@@ -38,7 +38,7 @@ again go to line 5 and change the port to whatever you set your server as, again
 make sure you have the proxy & actual pychat server fowarded (exp)
 ![opera_nOBLivgmN4](https://user-images.githubusercontent.com/88512222/231716907-4b5696c2-707c-49e2-a0c6-a4d049d8bbce.png)
 
-
+# Public Server - pychat.colebolebole.tk (port 9800)
 ---
 
 # Images
