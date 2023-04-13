@@ -1,4 +1,9 @@
 pychat (Python Chat)
+
+# AS OF NOW PORT FOWARDING IS NOT POSSIBLE, AND I AM UNABLE TO FIGURE IT OUT, MESSASE ME ON DISCORD IF YOU CAN HELP ME
+# Colebolebole#4652
+
+
 ---
 
 how to install
@@ -15,8 +20,6 @@ open up "pychat-server" into any text based editor, Line 5
 
 change this to the port of your liking (default 5555 as pictured)
 
-
-(host a pychat server on the cloud for free! - https://replit.com/@colebolebole/pychat-server?v=1)
 
 
 ---
