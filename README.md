@@ -6,7 +6,7 @@ how to install
 
 # Server
 ---
-git clone this repo "https://github.com/colebolebole/pychat.git"
+git clone this repo "git clone https://github.com/colebolebole/pychat.git"
 
 open up "pychat-server" into any text based editor, Line 5
 
