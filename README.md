@@ -1,8 +1,8 @@
 pychat (Python Chat)
 
-# AS OF NOW PORT FOWARDING IS NOT POSSIBLE, AND I AM UNABLE TO FIGURE IT OUT, MESSASE ME ON DISCORD IF YOU CAN HELP ME
-# Colebolebole#4652
+# PORT FOWARDING HAS BEEN FIXED! FOUND A PROGRAM TO FIX IT 
 
+Shoutout - https://github.com/westphilm/forwardproxy !
 
 ---
 
@@ -18,7 +18,7 @@ open up "pychat-server" into any text based editor, Line 5
 
 ![image](https://user-images.githubusercontent.com/88512222/231636969-da004ad2-efb0-4892-a80e-6074b7cea476.png)
 
-change this to the port of your liking (default 5555 as pictured)
+change this to the port of your liking (default 5555 as pictured, 9800 if proxied for port forwarding)
 
 
 
@@ -31,7 +31,7 @@ change this to the port of your liking (default 5555 as pictured)
 once again, git clone this repo "git clone https://github.com/colebolebole/pychat.git"
 
 open up pychat on any text based editor 
-again go to line 5 and change the port to whatever you set your server as
+again go to line 5 and change the port to whatever you set your server as, again (default 5555 as pictured, 9800 if proxied for port forwarding) 
 
 ---
 
