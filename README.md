@@ -1,6 +1,6 @@
 pychat (Python Chat)
 
-(NOTE: pychat is in alpha, so bugs may occur (pychat server keeps crashing for an unkown reason)
+(NOTE: pychat is in alpha, so bugs may occur (pychat server keeps crashing for an unknown reason)
 
 
 # PORT FOWARDING HAS BEEN FIXED! FOUND A PROGRAM TO FIX IT 
