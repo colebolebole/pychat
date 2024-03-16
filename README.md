@@ -47,5 +47,4 @@ make sure you have the proxy & actual pychat server fowarded (exp)
 
 ![WindowsTerminal_Yz0fUsIvU7](https://user-images.githubusercontent.com/88512222/231637536-1afdb4a6-c4ca-48d9-9489-d84bd8ebd816.png)
 
-Pychat demo
 
